@@ -9,7 +9,7 @@ My open-source interests are
 * 🔩 Numerical Optimization
 * 💻 Computer Science in general!
 
-[![Codewars stats](https://www.codewars.com/users/albarji/badges/larget)](https://www.codewars.com/users/albarji)
+[![Codewars stats](https://www.codewars.com/users/albarji/badges/large)](https://www.codewars.com/users/albarji)
 
 <img align="left" alt="albarji's Github Stats" src="https://github-readme-stats.vercel.app/api?username=albarji&show_icons=true&hide_border=true" />
 
