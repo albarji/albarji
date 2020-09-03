@@ -1,11 +1,11 @@
 ### Hi there, I'm albarji! 👋
 
-My open-source interest are
+My open-source interests are
 
 * 🤖 Machine Learning 
 * 📚 Natural Language Processing 
 * 🖼️ Image Processing 
-* 🤔 Computational creativity
+* 🤔 Computational Creativity
 * 🔩 Numerical Optimization
 * 💻 Computer Science in general!
 
