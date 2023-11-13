@@ -13,4 +13,4 @@ My open-source interests are
 
 [![Codewars stats](https://www.codewars.com/users/albarji/badges/large)](https://www.codewars.com/users/albarji)
 
-[![Albarji's GitHub stats](https://github-readme-stats.vercel.app/api?username=albarji&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Albarji's GitHub stats](https://github-readme-stats.vercel.app/api?username=albarji&show_icons=true&rank_icon=percentile&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
